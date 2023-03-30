@@ -41,7 +41,7 @@ python duckdb_demo/duckdb_demo.py
 
 ## Next steps
 
-Do a test with DuckDB and the Iceberg API an data in S3, similar to what Alon Agmon does in this [blog][2].
+Do a test with DuckDB and the Iceberg API on data in S3, similar to what Alon Agmon does in this [blog][2].
 
 [1]: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 [2]: https://towardsdatascience.com/boost-your-cloud-data-applications-with-duckdb-and-iceberg-api-67677666fbd3
