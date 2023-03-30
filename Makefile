@@ -1,3 +1,9 @@
+.PHONY: build
+build:
+	@docker build \
+	-t duckdb-rat-a26c:latest \
+	.
+
 .PHONY: dev
 dev:
 	@docker run \
